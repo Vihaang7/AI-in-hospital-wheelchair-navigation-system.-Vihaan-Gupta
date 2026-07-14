@@ -1,0 +1,53 @@
+LocationID,LocationName,Floor,Category,RoomNo
+G01,Main Entrance,Ground,Entrance,EN01
+G02,Reception,Ground,Administration,R001
+G03,Information Desk,Ground,Administration,R002
+G04,Registration,Ground,Administration,R003
+G05,Billing,Ground,Administration,R004
+G06,Waiting Area,Ground,Facility,W001
+G07,Emergency Department,Ground,Clinical,E101
+G08,Triage,Ground,Clinical,E102
+G09,Pharmacy,Ground,Pharmacy,P001
+G10,Laboratory,Ground,Diagnostic,L001
+G11,Blood Collection,Ground,Diagnostic,L002
+G12,Cafeteria,Ground,Facility,C001
+G13,Coffee Shop,Ground,Facility,C002
+G14,Prayer Room,Ground,Facility,PR01
+G15,ATM,Ground,Facility,ATM01
+G16,Public Restroom,Ground,Facility,RR01
+G17,Lift A,Ground,Transport,LFA
+G18,Lift B,Ground,Transport,LFB
+G19,Stair A,Ground,Transport,STA
+G20,Stair B,Ground,Transport,STB
+G21,Security Office,Ground,Administration,SEC01
+G22,Exit,Ground,Exit,EX01
+F01,Cardiology,First,Department,C201
+F02,Neurology,First,Department,N202
+F03,Gastroenterology,First,Department,G203
+F04,Orthopedics,First,Department,O204
+F05,Pediatrics,First,Department,P205
+F06,ENT,First,Department,ENT206
+F07,Dermatology,First,Department,D207
+F08,Urology,First,Department,U208
+F09,Physiotherapy,First,Department,PHY209
+F10,Consultation Room 1,First,Consultation,CR210
+F11,Consultation Room 2,First,Consultation,CR211
+F12,Nurse Station,First,Support,NS212
+F13,Waiting Area,First,Facility,W213
+F14,Restroom,First,Facility,RR214
+F15,Lift Lobby,First,Transport,LL215
+S01,Radiology,Second,Department,R301
+S02,MRI,Second,Imaging,MRI302
+S03,CT Scan,Second,Imaging,CT303
+S04,Ultrasound,Second,Imaging,US304
+S05,ICU,Second,Critical Care,ICU305
+S06,NICU,Second,Critical Care,NICU306
+S07,PICU,Second,Critical Care,PICU307
+S08,Operation Theatre 1,Second,Surgery,OT308
+S09,Operation Theatre 2,Second,Surgery,OT309
+S10,Recovery Room,Second,Recovery,RR310
+S11,Ophthalmology,Second,Department,OP311
+S12,Dental,Second,Department,D312
+S13,Waiting Area,Second,Facility,W313
+S14,Restroom,Second,Facility,RR314
+S15,Lift Lobby,Second,Transport,LL315

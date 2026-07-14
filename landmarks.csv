@@ -1,0 +1,26 @@
+LandmarkID,LandmarkName,NearbyLocationID,NearbyLocation,Description
+LM001,Main Entrance Sign,G01,Main Entrance,Primary entrance signage
+LM002,Reception Desk,G02,Reception,Central help desk
+LM003,Information Desk,G03,Information Desk,Visitor assistance
+LM004,Digital Directory,G02,Reception,Interactive hospital directory
+LM005,Waiting Area,G06,Waiting Area,Main waiting lounge
+LM006,Emergency Sign,G07,Emergency Department,Emergency entrance marker
+LM007,Pharmacy Counter,G09,Pharmacy,Medicine pickup counter
+LM008,Lab Reception,G10,Laboratory,Diagnostic reception
+LM009,Coffee Shop,G13,Coffee Shop,Next to cafeteria
+LM010,Cafeteria,G12,Cafeteria,Food court
+LM011,ATM,G15,ATM,Near reception corridor
+LM012,Prayer Room,G14,Prayer Room,Quiet room
+LM013,Lift A,G17,Lift A,Main passenger lift
+LM014,Lift B,G18,Lift B,Secondary passenger lift
+LM015,Stair A,G19,Stair A,Emergency staircase
+LM016,Stair B,G20,Stair B,Emergency staircase
+LM017,Security Office,G21,Security Office,Security assistance
+LM018,Lift Lobby,F15,Lift Lobby,First floor central lobby
+LM019,Nurse Station,F12,Nurse Station,OPD assistance
+LM020,Lift Lobby,S15,Lift Lobby,Second floor central lobby
+LM021,Radiology Reception,S01,Radiology,Imaging reception
+LM022,ICU Entrance,S05,ICU,Critical care entrance
+LM023,Recovery Room,S10,Recovery Room,Post-surgery recovery
+LM024,Dental Reception,S12,Dental,Dental clinic entrance
+LM025,Exit Sign,G22,Exit,Hospital exit

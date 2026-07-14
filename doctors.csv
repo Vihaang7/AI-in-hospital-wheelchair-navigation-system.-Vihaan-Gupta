@@ -1,0 +1,31 @@
+DoctorID,DoctorName,Department,Room,Floor,LocationID
+D001,Dr. Ahmed Hassan,Cardiology,C201,First,F01
+D002,Dr. Sarah Ali,Pediatrics,P205,First,F05
+D003,Dr. John Mathew,Neurology,N202,First,F02
+D004,Dr. Priya Sharma,Gastroenterology,G203,First,F03
+D005,Dr. Omar Khan,Orthopedics,O204,First,F04
+D006,Dr. Emily Chen,ENT,ENT206,First,F06
+D007,Dr. Fatima Noor,Dermatology,D207,First,F07
+D008,Dr. Raj Patel,Urology,U208,First,F08
+D009,Dr. Michael Lee,Physiotherapy,PHY209,First,F09
+D010,Dr. Aisha Rahman,Emergency Department,E101,Ground,G07
+D011,Dr. David Kim,Laboratory,L001,Ground,G10
+D012,Dr. Sofia Martins,Radiology,R301,Second,S01
+D013,Dr. Ibrahim Yusuf,MRI,MRI302,Second,S02
+D014,Dr. Chloe Brown,CT Scan,CT303,Second,S03
+D015,Dr. Lucas Silva,Ultrasound,US304,Second,S04
+D016,Dr. Neha Kapoor,ICU,ICU305,Second,S05
+D017,Dr. Hassan Malik,NICU,NICU306,Second,S06
+D018,Dr. Grace Wilson,PICU,PICU307,Second,S07
+D019,Dr. Kevin Thomas,Operation Theatre 1,OT308,Second,S08
+D020,Dr. Maria Lopez,Operation Theatre 2,OT309,Second,S09
+D021,Dr. Ethan Clark,Recovery Room,RR310,Second,S10
+D022,Dr. Noor Ahmed,Ophthalmology,OP311,Second,S11
+D023,Dr. James White,Dental,D312,Second,S12
+D024,Dr. Ritu Verma,Pharmacy,P001,Ground,G09
+D025,Dr. Arjun Rao,Blood Collection,L002,Ground,G11
+D026,Dr. Lina George,Consultation Room 1,CR210,First,F10
+D027,Dr. Samir Das,Consultation Room 2,CR211,First,F11
+D028,Dr. Helen Scott,Triage,E102,Ground,G08
+D029,Dr. Yusuf Ibrahim,Emergency Department,E101,Ground,G07
+D030,Dr. Meera Iyer,Cardiology,C201,First,F01

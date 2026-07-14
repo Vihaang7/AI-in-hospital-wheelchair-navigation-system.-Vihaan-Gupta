@@ -1,0 +1,401 @@
+Question,Intent,Destination
+Where is Reception?,Navigate,Reception
+Where is Registration?,Navigate,Registration
+Where is Billing?,Navigate,Billing
+Where is Emergency Department?,Navigate,Emergency Department
+Where is Triage?,Navigate,Triage
+Where is Pharmacy?,Navigate,Pharmacy
+Where is Laboratory?,Navigate,Laboratory
+Where is Blood Collection?,Navigate,Blood Collection
+Where is Cafeteria?,Navigate,Cafeteria
+Where is Coffee Shop?,Navigate,Coffee Shop
+Where is Prayer Room?,Navigate,Prayer Room
+Where is ATM?,Navigate,ATM
+Where is Cardiology?,Navigate,Cardiology
+Where is Neurology?,Navigate,Neurology
+Where is Gastroenterology?,Navigate,Gastroenterology
+Where is Orthopedics?,Navigate,Orthopedics
+Where is Pediatrics?,Navigate,Pediatrics
+Where is ENT?,Navigate,ENT
+Where is Dermatology?,Navigate,Dermatology
+Where is Urology?,Navigate,Urology
+Where is Physiotherapy?,Navigate,Physiotherapy
+Where is Consultation Room 1?,Navigate,Consultation Room 1
+Where is Consultation Room 2?,Navigate,Consultation Room 2
+Where is Radiology?,Navigate,Radiology
+Where is MRI?,Navigate,MRI
+Where is CT Scan?,Navigate,CT Scan
+Where is Ultrasound?,Navigate,Ultrasound
+Where is ICU?,Navigate,ICU
+Where is NICU?,Navigate,NICU
+Where is PICU?,Navigate,PICU
+Where is Operation Theatre 1?,Navigate,Operation Theatre 1
+Where is Operation Theatre 2?,Navigate,Operation Theatre 2
+Where is Recovery Room?,Navigate,Recovery Room
+Where is Ophthalmology?,Navigate,Ophthalmology
+Where is Dental?,Navigate,Dental
+Take me to Reception.,Navigate,Reception
+Take me to Registration.,Navigate,Registration
+Take me to Billing.,Navigate,Billing
+Take me to Emergency Department.,Navigate,Emergency Department
+Take me to Triage.,Navigate,Triage
+Take me to Pharmacy.,Navigate,Pharmacy
+Take me to Laboratory.,Navigate,Laboratory
+Take me to Blood Collection.,Navigate,Blood Collection
+Take me to Cafeteria.,Navigate,Cafeteria
+Take me to Coffee Shop.,Navigate,Coffee Shop
+Take me to Prayer Room.,Navigate,Prayer Room
+Take me to ATM.,Navigate,ATM
+Take me to Cardiology.,Navigate,Cardiology
+Take me to Neurology.,Navigate,Neurology
+Take me to Gastroenterology.,Navigate,Gastroenterology
+Take me to Orthopedics.,Navigate,Orthopedics
+Take me to Pediatrics.,Navigate,Pediatrics
+Take me to ENT.,Navigate,ENT
+Take me to Dermatology.,Navigate,Dermatology
+Take me to Urology.,Navigate,Urology
+Take me to Physiotherapy.,Navigate,Physiotherapy
+Take me to Consultation Room 1.,Navigate,Consultation Room 1
+Take me to Consultation Room 2.,Navigate,Consultation Room 2
+Take me to Radiology.,Navigate,Radiology
+Take me to MRI.,Navigate,MRI
+Take me to CT Scan.,Navigate,CT Scan
+Take me to Ultrasound.,Navigate,Ultrasound
+Take me to ICU.,Navigate,ICU
+Take me to NICU.,Navigate,NICU
+Take me to PICU.,Navigate,PICU
+Take me to Operation Theatre 1.,Navigate,Operation Theatre 1
+Take me to Operation Theatre 2.,Navigate,Operation Theatre 2
+Take me to Recovery Room.,Navigate,Recovery Room
+Take me to Ophthalmology.,Navigate,Ophthalmology
+Take me to Dental.,Navigate,Dental
+Guide me to Reception.,Navigate,Reception
+Guide me to Registration.,Navigate,Registration
+Guide me to Billing.,Navigate,Billing
+Guide me to Emergency Department.,Navigate,Emergency Department
+Guide me to Triage.,Navigate,Triage
+Guide me to Pharmacy.,Navigate,Pharmacy
+Guide me to Laboratory.,Navigate,Laboratory
+Guide me to Blood Collection.,Navigate,Blood Collection
+Guide me to Cafeteria.,Navigate,Cafeteria
+Guide me to Coffee Shop.,Navigate,Coffee Shop
+Guide me to Prayer Room.,Navigate,Prayer Room
+Guide me to ATM.,Navigate,ATM
+Guide me to Cardiology.,Navigate,Cardiology
+Guide me to Neurology.,Navigate,Neurology
+Guide me to Gastroenterology.,Navigate,Gastroenterology
+Guide me to Orthopedics.,Navigate,Orthopedics
+Guide me to Pediatrics.,Navigate,Pediatrics
+Guide me to ENT.,Navigate,ENT
+Guide me to Dermatology.,Navigate,Dermatology
+Guide me to Urology.,Navigate,Urology
+Guide me to Physiotherapy.,Navigate,Physiotherapy
+Guide me to Consultation Room 1.,Navigate,Consultation Room 1
+Guide me to Consultation Room 2.,Navigate,Consultation Room 2
+Guide me to Radiology.,Navigate,Radiology
+Guide me to MRI.,Navigate,MRI
+Guide me to CT Scan.,Navigate,CT Scan
+Guide me to Ultrasound.,Navigate,Ultrasound
+Guide me to ICU.,Navigate,ICU
+Guide me to NICU.,Navigate,NICU
+Guide me to PICU.,Navigate,PICU
+Guide me to Operation Theatre 1.,Navigate,Operation Theatre 1
+Guide me to Operation Theatre 2.,Navigate,Operation Theatre 2
+Guide me to Recovery Room.,Navigate,Recovery Room
+Guide me to Ophthalmology.,Navigate,Ophthalmology
+Guide me to Dental.,Navigate,Dental
+How do I reach Reception?,Navigate,Reception
+How do I reach Registration?,Navigate,Registration
+How do I reach Billing?,Navigate,Billing
+How do I reach Emergency Department?,Navigate,Emergency Department
+How do I reach Triage?,Navigate,Triage
+How do I reach Pharmacy?,Navigate,Pharmacy
+How do I reach Laboratory?,Navigate,Laboratory
+How do I reach Blood Collection?,Navigate,Blood Collection
+How do I reach Cafeteria?,Navigate,Cafeteria
+How do I reach Coffee Shop?,Navigate,Coffee Shop
+How do I reach Prayer Room?,Navigate,Prayer Room
+How do I reach ATM?,Navigate,ATM
+How do I reach Cardiology?,Navigate,Cardiology
+How do I reach Neurology?,Navigate,Neurology
+How do I reach Gastroenterology?,Navigate,Gastroenterology
+How do I reach Orthopedics?,Navigate,Orthopedics
+How do I reach Pediatrics?,Navigate,Pediatrics
+How do I reach ENT?,Navigate,ENT
+How do I reach Dermatology?,Navigate,Dermatology
+How do I reach Urology?,Navigate,Urology
+How do I reach Physiotherapy?,Navigate,Physiotherapy
+How do I reach Consultation Room 1?,Navigate,Consultation Room 1
+How do I reach Consultation Room 2?,Navigate,Consultation Room 2
+How do I reach Radiology?,Navigate,Radiology
+How do I reach MRI?,Navigate,MRI
+How do I reach CT Scan?,Navigate,CT Scan
+How do I reach Ultrasound?,Navigate,Ultrasound
+How do I reach ICU?,Navigate,ICU
+How do I reach NICU?,Navigate,NICU
+How do I reach PICU?,Navigate,PICU
+How do I reach Operation Theatre 1?,Navigate,Operation Theatre 1
+How do I reach Operation Theatre 2?,Navigate,Operation Theatre 2
+How do I reach Recovery Room?,Navigate,Recovery Room
+How do I reach Ophthalmology?,Navigate,Ophthalmology
+How do I reach Dental?,Navigate,Dental
+Show me the way to Reception.,Navigate,Reception
+Show me the way to Registration.,Navigate,Registration
+Show me the way to Billing.,Navigate,Billing
+Show me the way to Emergency Department.,Navigate,Emergency Department
+Show me the way to Triage.,Navigate,Triage
+Show me the way to Pharmacy.,Navigate,Pharmacy
+Show me the way to Laboratory.,Navigate,Laboratory
+Show me the way to Blood Collection.,Navigate,Blood Collection
+Show me the way to Cafeteria.,Navigate,Cafeteria
+Show me the way to Coffee Shop.,Navigate,Coffee Shop
+Show me the way to Prayer Room.,Navigate,Prayer Room
+Show me the way to ATM.,Navigate,ATM
+Show me the way to Cardiology.,Navigate,Cardiology
+Show me the way to Neurology.,Navigate,Neurology
+Show me the way to Gastroenterology.,Navigate,Gastroenterology
+Show me the way to Orthopedics.,Navigate,Orthopedics
+Show me the way to Pediatrics.,Navigate,Pediatrics
+Show me the way to ENT.,Navigate,ENT
+Show me the way to Dermatology.,Navigate,Dermatology
+Show me the way to Urology.,Navigate,Urology
+Show me the way to Physiotherapy.,Navigate,Physiotherapy
+Show me the way to Consultation Room 1.,Navigate,Consultation Room 1
+Show me the way to Consultation Room 2.,Navigate,Consultation Room 2
+Show me the way to Radiology.,Navigate,Radiology
+Show me the way to MRI.,Navigate,MRI
+Show me the way to CT Scan.,Navigate,CT Scan
+Show me the way to Ultrasound.,Navigate,Ultrasound
+Show me the way to ICU.,Navigate,ICU
+Show me the way to NICU.,Navigate,NICU
+Show me the way to PICU.,Navigate,PICU
+Show me the way to Operation Theatre 1.,Navigate,Operation Theatre 1
+Show me the way to Operation Theatre 2.,Navigate,Operation Theatre 2
+Show me the way to Recovery Room.,Navigate,Recovery Room
+Show me the way to Ophthalmology.,Navigate,Ophthalmology
+Show me the way to Dental.,Navigate,Dental
+Navigate to Reception.,Navigate,Reception
+Navigate to Registration.,Navigate,Registration
+Navigate to Billing.,Navigate,Billing
+Navigate to Emergency Department.,Navigate,Emergency Department
+Navigate to Triage.,Navigate,Triage
+Navigate to Pharmacy.,Navigate,Pharmacy
+Navigate to Laboratory.,Navigate,Laboratory
+Navigate to Blood Collection.,Navigate,Blood Collection
+Navigate to Cafeteria.,Navigate,Cafeteria
+Navigate to Coffee Shop.,Navigate,Coffee Shop
+Navigate to Prayer Room.,Navigate,Prayer Room
+Navigate to ATM.,Navigate,ATM
+Navigate to Cardiology.,Navigate,Cardiology
+Navigate to Neurology.,Navigate,Neurology
+Navigate to Gastroenterology.,Navigate,Gastroenterology
+Navigate to Orthopedics.,Navigate,Orthopedics
+Navigate to Pediatrics.,Navigate,Pediatrics
+Navigate to ENT.,Navigate,ENT
+Navigate to Dermatology.,Navigate,Dermatology
+Navigate to Urology.,Navigate,Urology
+Navigate to Physiotherapy.,Navigate,Physiotherapy
+Navigate to Consultation Room 1.,Navigate,Consultation Room 1
+Navigate to Consultation Room 2.,Navigate,Consultation Room 2
+Navigate to Radiology.,Navigate,Radiology
+Navigate to MRI.,Navigate,MRI
+Navigate to CT Scan.,Navigate,CT Scan
+Navigate to Ultrasound.,Navigate,Ultrasound
+Navigate to ICU.,Navigate,ICU
+Navigate to NICU.,Navigate,NICU
+Navigate to PICU.,Navigate,PICU
+Navigate to Operation Theatre 1.,Navigate,Operation Theatre 1
+Navigate to Operation Theatre 2.,Navigate,Operation Theatre 2
+Navigate to Recovery Room.,Navigate,Recovery Room
+Navigate to Ophthalmology.,Navigate,Ophthalmology
+Navigate to Dental.,Navigate,Dental
+Directions to Reception.,Navigate,Reception
+Directions to Registration.,Navigate,Registration
+Directions to Billing.,Navigate,Billing
+Directions to Emergency Department.,Navigate,Emergency Department
+Directions to Triage.,Navigate,Triage
+Directions to Pharmacy.,Navigate,Pharmacy
+Directions to Laboratory.,Navigate,Laboratory
+Directions to Blood Collection.,Navigate,Blood Collection
+Directions to Cafeteria.,Navigate,Cafeteria
+Directions to Coffee Shop.,Navigate,Coffee Shop
+Directions to Prayer Room.,Navigate,Prayer Room
+Directions to ATM.,Navigate,ATM
+Directions to Cardiology.,Navigate,Cardiology
+Directions to Neurology.,Navigate,Neurology
+Directions to Gastroenterology.,Navigate,Gastroenterology
+Directions to Orthopedics.,Navigate,Orthopedics
+Directions to Pediatrics.,Navigate,Pediatrics
+Directions to ENT.,Navigate,ENT
+Directions to Dermatology.,Navigate,Dermatology
+Directions to Urology.,Navigate,Urology
+Directions to Physiotherapy.,Navigate,Physiotherapy
+Directions to Consultation Room 1.,Navigate,Consultation Room 1
+Directions to Consultation Room 2.,Navigate,Consultation Room 2
+Directions to Radiology.,Navigate,Radiology
+Directions to MRI.,Navigate,MRI
+Directions to CT Scan.,Navigate,CT Scan
+Directions to Ultrasound.,Navigate,Ultrasound
+Directions to ICU.,Navigate,ICU
+Directions to NICU.,Navigate,NICU
+Directions to PICU.,Navigate,PICU
+Directions to Operation Theatre 1.,Navigate,Operation Theatre 1
+Directions to Operation Theatre 2.,Navigate,Operation Theatre 2
+Directions to Recovery Room.,Navigate,Recovery Room
+Directions to Ophthalmology.,Navigate,Ophthalmology
+Directions to Dental.,Navigate,Dental
+Find Reception.,Navigate,Reception
+Find Registration.,Navigate,Registration
+Find Billing.,Navigate,Billing
+Find Emergency Department.,Navigate,Emergency Department
+Find Triage.,Navigate,Triage
+Find Pharmacy.,Navigate,Pharmacy
+Find Laboratory.,Navigate,Laboratory
+Find Blood Collection.,Navigate,Blood Collection
+Find Cafeteria.,Navigate,Cafeteria
+Find Coffee Shop.,Navigate,Coffee Shop
+Find Prayer Room.,Navigate,Prayer Room
+Find ATM.,Navigate,ATM
+Find Cardiology.,Navigate,Cardiology
+Find Neurology.,Navigate,Neurology
+Find Gastroenterology.,Navigate,Gastroenterology
+Find Orthopedics.,Navigate,Orthopedics
+Find Pediatrics.,Navigate,Pediatrics
+Find ENT.,Navigate,ENT
+Find Dermatology.,Navigate,Dermatology
+Find Urology.,Navigate,Urology
+Find Physiotherapy.,Navigate,Physiotherapy
+Find Consultation Room 1.,Navigate,Consultation Room 1
+Find Consultation Room 2.,Navigate,Consultation Room 2
+Find Radiology.,Navigate,Radiology
+Find MRI.,Navigate,MRI
+Find CT Scan.,Navigate,CT Scan
+Find Ultrasound.,Navigate,Ultrasound
+Find ICU.,Navigate,ICU
+Find NICU.,Navigate,NICU
+Find PICU.,Navigate,PICU
+Find Operation Theatre 1.,Navigate,Operation Theatre 1
+Find Operation Theatre 2.,Navigate,Operation Theatre 2
+Find Recovery Room.,Navigate,Recovery Room
+Find Ophthalmology.,Navigate,Ophthalmology
+Find Dental.,Navigate,Dental
+Nearest Reception.,Navigate,Reception
+Nearest Registration.,Navigate,Registration
+Nearest Billing.,Navigate,Billing
+Nearest Emergency Department.,Navigate,Emergency Department
+Nearest Triage.,Navigate,Triage
+Nearest Pharmacy.,Navigate,Pharmacy
+Nearest Laboratory.,Navigate,Laboratory
+Nearest Blood Collection.,Navigate,Blood Collection
+Nearest Cafeteria.,Navigate,Cafeteria
+Nearest Coffee Shop.,Navigate,Coffee Shop
+Nearest Prayer Room.,Navigate,Prayer Room
+Nearest ATM.,Navigate,ATM
+Nearest Cardiology.,Navigate,Cardiology
+Nearest Neurology.,Navigate,Neurology
+Nearest Gastroenterology.,Navigate,Gastroenterology
+Nearest Orthopedics.,Navigate,Orthopedics
+Nearest Pediatrics.,Navigate,Pediatrics
+Nearest ENT.,Navigate,ENT
+Nearest Dermatology.,Navigate,Dermatology
+Nearest Urology.,Navigate,Urology
+Nearest Physiotherapy.,Navigate,Physiotherapy
+Nearest Consultation Room 1.,Navigate,Consultation Room 1
+Nearest Consultation Room 2.,Navigate,Consultation Room 2
+Nearest Radiology.,Navigate,Radiology
+Nearest MRI.,Navigate,MRI
+Nearest CT Scan.,Navigate,CT Scan
+Nearest Ultrasound.,Navigate,Ultrasound
+Nearest ICU.,Navigate,ICU
+Nearest NICU.,Navigate,NICU
+Nearest PICU.,Navigate,PICU
+Nearest Operation Theatre 1.,Navigate,Operation Theatre 1
+Nearest Operation Theatre 2.,Navigate,Operation Theatre 2
+Nearest Recovery Room.,Navigate,Recovery Room
+Nearest Ophthalmology.,Navigate,Ophthalmology
+Nearest Dental.,Navigate,Dental
+Can you help me find Reception?,Navigate,Reception
+Can you help me find Registration?,Navigate,Registration
+Can you help me find Billing?,Navigate,Billing
+Can you help me find Emergency Department?,Navigate,Emergency Department
+Can you help me find Triage?,Navigate,Triage
+Can you help me find Pharmacy?,Navigate,Pharmacy
+Can you help me find Laboratory?,Navigate,Laboratory
+Can you help me find Blood Collection?,Navigate,Blood Collection
+Can you help me find Cafeteria?,Navigate,Cafeteria
+Can you help me find Coffee Shop?,Navigate,Coffee Shop
+Can you help me find Prayer Room?,Navigate,Prayer Room
+Can you help me find ATM?,Navigate,ATM
+Can you help me find Cardiology?,Navigate,Cardiology
+Can you help me find Neurology?,Navigate,Neurology
+Can you help me find Gastroenterology?,Navigate,Gastroenterology
+Can you help me find Orthopedics?,Navigate,Orthopedics
+Can you help me find Pediatrics?,Navigate,Pediatrics
+Can you help me find ENT?,Navigate,ENT
+Can you help me find Dermatology?,Navigate,Dermatology
+Can you help me find Urology?,Navigate,Urology
+Can you help me find Physiotherapy?,Navigate,Physiotherapy
+Can you help me find Consultation Room 1?,Navigate,Consultation Room 1
+Can you help me find Consultation Room 2?,Navigate,Consultation Room 2
+Can you help me find Radiology?,Navigate,Radiology
+Can you help me find MRI?,Navigate,MRI
+Can you help me find CT Scan?,Navigate,CT Scan
+Can you help me find Ultrasound?,Navigate,Ultrasound
+Can you help me find ICU?,Navigate,ICU
+Can you help me find NICU?,Navigate,NICU
+Can you help me find PICU?,Navigate,PICU
+Can you help me find Operation Theatre 1?,Navigate,Operation Theatre 1
+Can you help me find Operation Theatre 2?,Navigate,Operation Theatre 2
+Can you help me find Recovery Room?,Navigate,Recovery Room
+Can you help me find Ophthalmology?,Navigate,Ophthalmology
+Can you help me find Dental?,Navigate,Dental
+I have an appointment at Reception.,Navigate,Reception
+I have an appointment at Registration.,Navigate,Registration
+I have an appointment at Billing.,Navigate,Billing
+I have an appointment at Emergency Department.,Navigate,Emergency Department
+I have an appointment at Triage.,Navigate,Triage
+I have an appointment at Pharmacy.,Navigate,Pharmacy
+I have an appointment at Laboratory.,Navigate,Laboratory
+I have an appointment at Blood Collection.,Navigate,Blood Collection
+I have an appointment at Cafeteria.,Navigate,Cafeteria
+I have an appointment at Coffee Shop.,Navigate,Coffee Shop
+I have an appointment at Prayer Room.,Navigate,Prayer Room
+I have an appointment at ATM.,Navigate,ATM
+I have an appointment at Cardiology.,Navigate,Cardiology
+I have an appointment at Neurology.,Navigate,Neurology
+I have an appointment at Gastroenterology.,Navigate,Gastroenterology
+I have an appointment at Orthopedics.,Navigate,Orthopedics
+I have an appointment at Pediatrics.,Navigate,Pediatrics
+I have an appointment at ENT.,Navigate,ENT
+I have an appointment at Dermatology.,Navigate,Dermatology
+I have an appointment at Urology.,Navigate,Urology
+I have an appointment at Physiotherapy.,Navigate,Physiotherapy
+I have an appointment at Consultation Room 1.,Navigate,Consultation Room 1
+I have an appointment at Consultation Room 2.,Navigate,Consultation Room 2
+I have an appointment at Radiology.,Navigate,Radiology
+I have an appointment at MRI.,Navigate,MRI
+I have an appointment at CT Scan.,Navigate,CT Scan
+I have an appointment at Ultrasound.,Navigate,Ultrasound
+I have an appointment at ICU.,Navigate,ICU
+I have an appointment at NICU.,Navigate,NICU
+I have an appointment at PICU.,Navigate,PICU
+I have an appointment at Operation Theatre 1.,Navigate,Operation Theatre 1
+I have an appointment at Operation Theatre 2.,Navigate,Operation Theatre 2
+I have an appointment at Recovery Room.,Navigate,Recovery Room
+I have an appointment at Ophthalmology.,Navigate,Ophthalmology
+I have an appointment at Dental.,Navigate,Dental
+Please take me to Reception.,Navigate,Reception
+Please take me to Registration.,Navigate,Registration
+Please take me to Billing.,Navigate,Billing
+Please take me to Emergency Department.,Navigate,Emergency Department
+Please take me to Triage.,Navigate,Triage
+Please take me to Pharmacy.,Navigate,Pharmacy
+Please take me to Laboratory.,Navigate,Laboratory
+Please take me to Blood Collection.,Navigate,Blood Collection
+Please take me to Cafeteria.,Navigate,Cafeteria
+Please take me to Coffee Shop.,Navigate,Coffee Shop
+Please take me to Prayer Room.,Navigate,Prayer Room
+Please take me to ATM.,Navigate,ATM
+Please take me to Cardiology.,Navigate,Cardiology
+Please take me to Neurology.,Navigate,Neurology
+Please take me to Gastroenterology.,Navigate,Gastroenterology

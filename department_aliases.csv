@@ -1,0 +1,41 @@
+Alias,Department
+ER,Emergency Department
+Emergency Room,Emergency Department
+Casualty,Emergency Department
+Heart Clinic,Cardiology
+Heart Doctor,Cardiology
+Cardiac Clinic,Cardiology
+Brain Clinic,Neurology
+Neuro,Neurology
+Bone Clinic,Orthopedics
+Ortho,Orthopedics
+Children's Clinic,Pediatrics
+Kids Clinic,Pediatrics
+ENT Clinic,ENT
+Skin Clinic,Dermatology
+Skin Doctor,Dermatology
+Urine Clinic,Urology
+Physio,Physiotherapy
+Rehab,Physiotherapy
+Scan,Radiology
+X-ray,Radiology
+MRI Scan,MRI
+CT,CT Scan
+CT Scan Room,CT Scan
+Ultrasound Scan,Ultrasound
+Eye Clinic,Ophthalmology
+Eye Doctor,Ophthalmology
+Dentist,Dental
+Dental Clinic,Dental
+Operation Room,Operation Theatre 1
+OT,Operation Theatre 1
+ICU Ward,ICU
+Intensive Care,ICU
+Baby ICU,NICU
+Child ICU,PICU
+Medicine Store,Pharmacy
+Drug Store,Pharmacy
+Lab,Laboratory
+Blood Test,Blood Collection
+Cash Counter,Billing
+Help Desk,Information Desk
